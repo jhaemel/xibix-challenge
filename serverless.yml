@@ -9,5 +9,5 @@ provider:
   runtime: nodejs14.x
 
 functions:
-  hello:
-    handler: handler.hello
+  calculateViewSpots:
+    handler: handler.calculateViewSpots
